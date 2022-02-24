@@ -7,5 +7,4 @@ This is the github profile of every single student's account on github
 | [Mahdi Ghorbani](https://github.com/MahdiGhorbaniMQ/) |
 | [Milad Taghizadeh](https://github.com/miladtaghizadeh1382/) |
 | [Iman Sedgh](https://github.com/iman-sedgh/) |
-
-
+| [Mani Monadi](https://github.com/lord8213) |
